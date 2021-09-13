@@ -1,2 +1,4 @@
-add my v1.txt:
-v2: add company.json
+add my v1.txt.
+v2:update to v2 version,add p.json
+hot-fix2:add beauty.json and update b.java
+v3: merger from master
