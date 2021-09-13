@@ -2,6 +2,7 @@
 
 public class b {
     public static void main(String[] args) {
-        System.out.printf("This is b.java!");
+        System.out.printf("I love minmin!");
+        //a.class has been ignore.
     }
 }
